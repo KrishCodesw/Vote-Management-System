@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "Team Alpha",
+      "description": "A powerhouse of innovation and technology.",
+      "image": "/images/team-alpha.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Team Beta",
+      "description": "A creative squad with brilliant minds.",
+      "image": "/images/team-beta.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Team Gamma",
+      "description": "Bringing excellence and determination.",
+      "image": "/images/team-gamma.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Team Beta",
+      "description": "A creative squad with brilliant minds.",
+      "image": "/images/team-beta.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Team Beta",
+      "description": "A creative squad with brilliant minds.",
+      "image": "/images/team-beta.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Team Beta",
+      "description": "A creative squad with brilliant minds.",
+      "image": "/images/team-beta.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Team Beta",
+      "description": "A creative squad with brilliant minds.",
+      "image": "/images/team-beta.jpg"
+    }
+  ]
+  
